@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CaloCare</string>
+    <string name="title_home">Home</string>
+    <string name="title_add_food">Add Food</string>
+    <string name="title_chatbot">Chatbot</string>
+    <string name="title_settings">Settings</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">Date</string>
+    <string name="calocare">CaloCare</string>
+    <string name="choose_your_type_of_food">Choose Your Type of Food</string>
+    <string name="dishes">Dishes</string>
+    <string name="package_foods">Package Foods</string>
+    <string name="enable_dark_mode">Dark Mode</string>
+    <string name="dark_mode">Enable Dark Mode</string>
+</resources>
