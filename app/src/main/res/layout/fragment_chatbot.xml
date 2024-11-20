@@ -11,10 +11,9 @@
         android:id="@+id/bot_logo"
         android:layout_width="40dp"
         android:layout_height="40dp"
-        android:layout_marginTop="32dp"
         android:src="@drawable/bot"
-        app:layout_constraintBottom_toBottomOf="0dp"
-        app:layout_constraintEnd_toEndOf="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
         app:layout_constraintStart_toStartOf="@+id/chat_scroll_view"
         app:layout_constraintTop_toTopOf="@+id/chat_scroll_view" />
 
@@ -55,6 +54,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:padding="8dp"
+        android:layout_marginBottom="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
